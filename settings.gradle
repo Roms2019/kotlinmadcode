@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Aula 1 - layout'
+rootProject.name='My Application'
